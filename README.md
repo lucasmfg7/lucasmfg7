@@ -1,6 +1,6 @@
 # Lucas Fernandes
 
-<img align="center" alt="Rafa-pic" height="70" style="border-radius:50px;" src="https://media.giphy.com/media/4Zs0CLPh5Jw0VXd6r5/giphy.gif"> <strong>Desenvolvedor FullStack</strong> <br>
+<img align="center" alt="Rafa-pic" height="70" style="border-radius:50px;" src="https://media.giphy.com/media/4Zs0CLPh5Jw0VXd6r5/giphy.gif"> <strong>Desenvolvedor FrontEnd</strong> <br>
 <img align="center" alt="Rafa-pic" height="70" style="border-radius:50px;" src="https://media.giphy.com/media/8ccWJJXxyhKbzYboOb/giphy.gif"> <strong>Apaixonado por café</strong>  <br>
 <img align="center" alt="Rafa-pic" height="70" style="border-radius:50px;" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"> <strong>Sempre aprendendo</strong> 
 
